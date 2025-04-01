@@ -5,7 +5,7 @@ I'm an aspiring Web and Software Developer from Oklahoma, USA, currently finishi
 [![My Skills](https://skillicons.dev/icons?i=vscode,py,html,mysql,cs,js&perline=3)](https://skillicons.dev)
 
 ## How to Reach Me?
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?link=www.linkedin.com/in/madisonthomas094)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?link=https://www.linkedin.com/in/madisonthomas094)
 
 <!--
 **AzureFirehawk/AzureFirehawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
