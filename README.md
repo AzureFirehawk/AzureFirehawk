@@ -1,5 +1,8 @@
 ## Hi there 👋 You can call me Azure
-I'm an aspiring Web and Software Developer from Oklahoma, USA
+
+I'm an aspiring Web and Software Developer from Oklahoma, USA, currently finishing up my bachelors degree!
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,py,html,mysql,cs,js&perline=3)](https://skillicons.dev)
 
 <!--
 **AzureFirehawk/AzureFirehawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
