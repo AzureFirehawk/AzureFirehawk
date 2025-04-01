@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 You can call me Azure
+I'm an aspiring Web and Software Developer from Oklahoma, USA
 
 <!--
 **AzureFirehawk/AzureFirehawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
