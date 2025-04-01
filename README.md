@@ -1,6 +1,6 @@
-## Hi there 👋 You can call me Azure
+## Hi there 👋 I'm Madison Thomas
 
-I'm an aspiring Web and Software Developer from Oklahoma, USA, currently finishing up my bachelors degree!
+I'm an aspiring Web and Software Developer from Oklahoma, USA, currently finishing up my bachelors degree! 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,py,html,mysql,cs,js&perline=3)](https://skillicons.dev)
 
